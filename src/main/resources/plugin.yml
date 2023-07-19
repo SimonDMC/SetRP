@@ -1,0 +1,6 @@
+name: SetRP
+version: '${project.version}'
+main: com.simondmc.setrp.SetRP
+
+commands:
+    setrp:
